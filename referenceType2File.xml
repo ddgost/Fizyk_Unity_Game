@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>d41513ff924b034429ab483ce1cd5a81</guid>
+    <fileName>Assets/ButtonAnimation.cs</fileName>
+    <timeStamp>2021-01-26T20:27:56.8871875+01:00</timeStamp>
+    <typeFullName>
+      <string>ButtonAnimation</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>85d16bf2c4d4e494798d98373fc45971</guid>
+    <fileName>Assets/ButtonTrigger.cs</fileName>
+    <timeStamp>2020-12-11T15:26:19.6956116+01:00</timeStamp>
+    <typeFullName>
+      <string>ButtonTrigger</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>31fb8d7e7434fb84683474e29ce86da4</guid>
+    <fileName>Assets/FinalPlatform.cs</fileName>
+    <timeStamp>2020-12-11T18:34:53.6592767+01:00</timeStamp>
+    <typeFullName>
+      <string>FinalPlatform</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>272c18ae3ea7bcb48b1bf88d034b297e</guid>
+    <fileName>Assets/GateAnimation.cs</fileName>
+    <timeStamp>2020-12-11T10:37:54.9371173+01:00</timeStamp>
+    <typeFullName>
+      <string>GateAnimation</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2014a659bc98abb47919f58f555eab19</guid>
+    <fileName>Assets/Item.cs</fileName>
+    <timeStamp>2020-12-10T23:21:07.4438461+01:00</timeStamp>
+    <typeFullName>
+      <string>Item</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e956ee59c79c1394fa61aa2438a0f158</guid>
+    <fileName>Assets/LightsButton.cs</fileName>
+    <timeStamp>2020-12-10T22:40:24.0026954+01:00</timeStamp>
+    <typeFullName>
+      <string>LightsButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d2b14bc72d948034c87bcb7045aba60b</guid>
+    <fileName>Assets/MainMenuExit.cs</fileName>
+    <timeStamp>2020-12-08T13:59:25.016219+01:00</timeStamp>
+    <typeFullName>
+      <string>MainMenuExit</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>172f8a765987679499d89463678b364e</guid>
+    <fileName>Assets/MainMenuStart.cs</fileName>
+    <timeStamp>2020-12-08T18:35:55.8254903+01:00</timeStamp>
+    <typeFullName>
+      <string>MainMenuStart</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>28a06ffb77748154581fc9567b2e894d</guid>
+    <fileName>Assets/MovingPlatform.cs</fileName>
+    <timeStamp>2020-12-11T16:47:09.4812901+01:00</timeStamp>
+    <typeFullName>
+      <string>MovingPlatform</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>99aae3d1908580c46acb9969287525d4</guid>
+    <fileName>Assets/Narrator.cs</fileName>
+    <timeStamp>2021-01-26T20:15:04.4787032+01:00</timeStamp>
+    <typeFullName>
+      <string>Narrator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>96d8fc0f58c7eba46aa2c2eeb9f3548b</guid>
+    <fileName>Assets/PlayerPlatform.cs</fileName>
+    <timeStamp>2020-12-11T17:08:51.9716338+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerPlatform</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2903098614553cc40ae1a9175e74cc9e</guid>
+    <fileName>Assets/PuzzleNarrator.cs</fileName>
+    <timeStamp>2020-12-10T22:32:04.5813214+01:00</timeStamp>
+    <typeFullName>
+      <string>PuzzleNarrator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>69c45dbe54a9fca43a9319c2302fc33a</guid>
+    <fileName>Assets/RocketTrigger.cs</fileName>
+    <timeStamp>2020-12-11T15:36:23.0849558+01:00</timeStamp>
+    <typeFullName>
+      <string>RocketTrigger</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>98d6157d29dfbb64c9f754608c530835</guid>
+    <fileName>Assets/TurnLightOnOff.cs</fileName>
+    <timeStamp>2020-12-11T17:39:36.620775+01:00</timeStamp>
+    <typeFullName>
+      <string>TurnLightOnOff</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9ff967b7ed48f2441bcf509edf6b889a</guid>
+    <fileName>Assets/AurynSky/Gems Ultimate Pack/Scripts/AnimationScript.cs</fileName>
+    <timeStamp>2019-08-21T20:23:20+02:00</timeStamp>
+    <typeFullName>
+      <string>AnimationScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>050a89c0f04cb214cb937a6fd8ce9e1d</guid>
+    <fileName>Assets/Buzzer Scripts/BBuzzer.cs</fileName>
+    <timeStamp>2020-12-09T20:47:25.8552889+01:00</timeStamp>
+    <typeFullName>
+      <string>BBuzzer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e6b4e73fb3105934ea20f8fc06292aae</guid>
+    <fileName>Assets/Buzzer Scripts/MBuzzer.cs</fileName>
+    <timeStamp>2020-12-09T20:46:37.432418+01:00</timeStamp>
+    <typeFullName>
+      <string>MBuzzer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>92a19c2169c0d394ab5cc747962e3cf5</guid>
+    <fileName>Assets/Buzzer Scripts/Wbuzzer.cs</fileName>
+    <timeStamp>2020-12-09T20:46:55.0713817+01:00</timeStamp>
+    <typeFullName>
+      <string>Wbuzzer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cac674818f545024cbdf944281177a99</guid>
+    <fileName>Assets/Buzzer Scripts/YBuzzer.cs</fileName>
+    <timeStamp>2020-12-09T20:46:27.2564397+01:00</timeStamp>
+    <typeFullName>
+      <string>YBuzzer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T19:51:26+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e9ccff300e5a8e6499d592844b2499d4</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/3D Models/Others/HealthItem/vAnimateUV.cs</fileName>
+    <timeStamp>2020-01-17T20:31:29+01:00</timeStamp>
+    <typeFullName>
+      <string>Invector.vAnimateUV</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1a1bfe72fbc87d04e885296b53e91c66</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/Camera/vThirdPersonCamera.cs</fileName>
+    <timeStamp>2020-01-17T20:29:38+01:00</timeStamp>
+    <typeFullName>
+      <string>vThirdPersonCamera</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>86f967fe0faf67840993d0f39fcec5a2</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/Camera/Editor/vThirdPersonCameraEditor.cs</fileName>
+    <timeStamp>2020-01-17T20:30:43+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b74f4ff80d113374fb65bf806f887874</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonAnimator.cs</fileName>
+    <timeStamp>2020-01-17T20:31:08+01:00</timeStamp>
+    <typeFullName>
+      <string>Invector.vCharacterController.vThirdPersonAnimator</string>
+      <string>Invector.vCharacterController.vAnimatorParameters</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>73fbf3aa05f6be24780438449f505aa3</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonController.cs</fileName>
+    <timeStamp>2020-01-17T20:30:33+01:00</timeStamp>
+    <typeFullName>
+      <string>Invector.vCharacterController.vThirdPersonController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5deb9ff5611cb9d4596d397ac57ee8c7</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonInput.cs</fileName>
+    <timeStamp>2020-01-17T20:30:19+01:00</timeStamp>
+    <typeFullName>
+      <string>Invector.vCharacterController.vThirdPersonInput</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>11faa0ff55786fa4588b84ab450ec41b</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonMotor.cs</fileName>
+    <timeStamp>2020-01-17T20:29:34+01:00</timeStamp>
+    <typeFullName>
+      <string>Invector.vCharacterController.vThirdPersonMotor</string>
+      <string>Invector.vCharacterController.vThirdPersonMotor+LocomotionType</string>
+      <string>Invector.vCharacterController.vThirdPersonMotor+vMovementSpeed</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d9cd42626827eb24c8c01686a2f7d91d</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/Editor/vCharacterEditor.cs</fileName>
+    <timeStamp>2020-01-17T20:31:23+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>41708f07abf46044399f2e556a162802</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/Editor/vInvectorStartup.cs</fileName>
+    <timeStamp>2020-01-17T20:30:00+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5fc5f628a186dcc448c8511ddf750be4</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/Editor/vInvectorWelcomeWindow.cs</fileName>
+    <timeStamp>2020-01-17T20:30:21+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>538618d45c821c64db3056e3989cd3f7</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/Editor/vThirdPersonInputEditor.cs</fileName>
+    <timeStamp>2020-01-17T20:30:11+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2f22f37f63bcec14080b11ce5e381ce6</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/Editor/Resources/vEditorStartupPrefs.cs</fileName>
+    <timeStamp>2020-01-17T20:29:45+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0be34c7083a012248a83e5a948676d12</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/CharacterCreator/Script/Editor/vCreateBasicCharacterEditor.cs</fileName>
+    <timeStamp>2020-01-17T20:29:32+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>07e2f10ae6225e54eaea15db1567ff5f</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/CharacterCreator/Script/Editor/vHelperEditor.cs</fileName>
+    <timeStamp>2020-01-17T20:29:32+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>19c789670a80b704eba4dfebed94a111</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vComment.cs</fileName>
+    <timeStamp>2020-01-17T20:29:38+01:00</timeStamp>
+    <typeFullName>
+      <string>Invector.Utils.vComment</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7fc1693a704c9e145a47ee927f7b634b</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vExtensions.cs</fileName>
+    <timeStamp>2020-01-17T20:30:38+01:00</timeStamp>
+    <typeFullName>
+      <string>Invector.vExtensions</string>
+      <string>Invector.ClipPlanePoints</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>094bc00b4db75c041854f4f3e6cc4c4b</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vPickupItem.cs</fileName>
+    <timeStamp>2020-01-17T20:29:32+01:00</timeStamp>
+    <typeFullName>
+      <string>vPickupItem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d3fcd47da60e70c4c93314b7d5fcb298</guid>
+    <fileName>Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/Editor/vCommentEditor.cs</fileName>
+    <timeStamp>2020-01-17T20:31:19+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
